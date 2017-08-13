@@ -1,0 +1,2 @@
+# vidovic.d
+bsetjob
